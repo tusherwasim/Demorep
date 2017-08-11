@@ -1,0 +1,6 @@
+#include<stdio.h>
+int a,b,c
+clrscr();
+
+	c= a+ b
+print c;
